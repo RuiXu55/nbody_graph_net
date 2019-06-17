@@ -1,0 +1,2 @@
+model_checkpoint_path: "nbody=6_De=2.cptk"
+all_model_checkpoint_paths: "nbody=6_De=2.cptk"
